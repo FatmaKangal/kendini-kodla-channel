@@ -7,6 +7,4 @@ Merhaba! Ben Fatma. Bu repo, YouTube kanalımda paylaştığım yazılım eğiti
 ## 🎓 İçerikler
 - C# Eğitim Serisi
 
-## 🗂️ Dosyalar
-- `docs/`: Eğitim notları, pdf dökümanlar
-- `video-list.csv`: Tüm video başlıkları ve yüklenme tarihleri
+
